@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**pje1740/pje1740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning:
+- JavaScript (Express JS, Node JS)
+- Python3 (Flask, algorithm)
+- Web development in general 💻
 
-Here are some ideas to get you started:
+👯 I’m a part of:
+- 🤟 BoostCamp 2020 (Korea)
+- 🤟 42Seoul (Seoul)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m looking for a position in:
+- Web Development (Node JS, Python)
+- Back end, Front end, possibly Fullstack🦄
+
+📫 How to reach me:
+stitch.coding@gmail.com
