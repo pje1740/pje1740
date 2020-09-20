@@ -5,7 +5,7 @@
 - Python3 (Flask, algorithm)
 - Web development in general 💻
 
-👯 I’m a part of:
+👯 I’m a member of:
 - 🤟 BoostCamp 2020 (Korea)
 - 🤟 42Seoul (Seoul)
 
