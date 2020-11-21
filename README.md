@@ -11,7 +11,7 @@
 
 🤔 I’m looking for a position in:
 - Web Development (Node JS, Python)
-- Back end, Front end, possibly Fullstack🦄
+- Front end (React)
 
 📫 How to reach me:
 stitch.coding@gmail.com
