@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![pje1740's github stats](https://github-readme-stats.vercel.app/api?username=pje1740)](https://github.com/anuraghazra/github-readme-stats)
+
 🌱 I’m currently learning:
 - JavaScript (Express JS, Node JS)
 - Python3 (Flask, algorithm)
