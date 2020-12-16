@@ -3,7 +3,7 @@
 [![pje1740's github stats](https://github-readme-stats.vercel.app/api?username=pje1740)](https://github.com/anuraghazra/github-readme-stats)
 
 🌱 I’m currently learning:
-- JavaScript (Express JS, Node JS)
+- JavaScript (TypeScript, Express JS, Node JS)
 - Python3 (Flask, algorithm)
 - Web development in general 💻
 
@@ -12,7 +12,7 @@
 - 🤟 42Seoul (Seoul)
 
 🤔 I’m looking for a position in:
-- Web Development (Node JS, Python)
+- Web Development (JavaScript, TypeScript, Node JS)
 - Front end (React)
 
 📫 How to reach me:
