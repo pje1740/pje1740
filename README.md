@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning:
 - JavaScript (TypeScript, Express JS, Node JS)
-- Python3 (Flask, algorithm)
+- React
 - Web development in general 💻
 
 👨‍👩‍👦‍👦 I’m a member of:
@@ -13,7 +13,7 @@
 
 🤔 I’m looking for a position in:
 - Web Development (JavaScript, TypeScript, Node JS)
-- Front end (React)
+- Front End (React)
 
 📫 How to reach me:
 stitch.coding@gmail.com
