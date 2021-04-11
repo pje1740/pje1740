@@ -16,4 +16,9 @@
 - Front End (React)
 
 📫 How to reach me:
+
 stitch.coding@gmail.com
+
+📝 blog:
+
+[Stitch Coding](https://stitchcoding.tistory.com/)
