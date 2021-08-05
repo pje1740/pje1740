@@ -11,10 +11,6 @@
 - 🤟 BoostCamp 2020 (Korea)
 - 🤟 42Seoul (Seoul)
 
-🤔 I’m looking for a position in:
-- Web Development (JavaScript, TypeScript, Node JS)
-- Front End (React)
-
 📫 How to reach me:
 
 stitch.coding@gmail.com
